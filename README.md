@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web based projects**
 
-- 📝 I regularly write articles on [Web Dev, Backend, Frontend](Web Dev, Backend, Frontend)
+- 📝 I regularly write articles on Web Dev, Backend, Frontend
 
 - 💬 Ask me about **React,Node js, Laravel,Express js,Spring boot,Docker**
 
